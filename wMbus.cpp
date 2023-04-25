@@ -1,5 +1,5 @@
 #include "wMbus.hpp"
 
-uint8_t version() {
-    return 1;
+uint8_t wMbusVer() {
+    return 2;
 }
